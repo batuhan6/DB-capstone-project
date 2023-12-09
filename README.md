@@ -8,11 +8,15 @@ created sales reports from the Database. Build a booking system, ganerate data i
 
 Created these sales reports using queries, procedures and prepared statements
 
-queries - VIRTUAL TABLES:To make use of data that exist in other tables and to simplify data access inquiries. JOINS:Link recordsof data between one or more tablesbased on a common column. 
+queries 
+- VIRTUAL TABLES:To make use of data that exist in other tables and to simplify data access inquiries.
+- JOINS:Link recordsof data between one or more tablesbased on a common column. 
 
-stored procedures - Reusable code that can be invoked and executed efficiently. 
+stored procedures 
+- Reusable code that can be invoked and executed efficiently. 
 
-prepared statements - MySQL compiles and parses just ones, and then knows it's safe to execute.(Prepared statements are a much more efficient and optimal way of executing statements without using valuable MySQL resources.) 
+prepared statements 
+- MySQL compiles and parses just ones, and then knows it's safe to execute.(Prepared statements are a much more efficient and optimal way of executing statements without using valuable MySQL resources.) 
 
 <!-- Another task you assisted Little Lemon with involved building a table booking system in their database that they could use to keep track of guests visiting the restaurant. This task mainly consisted of using SQL queries and transactions. -->
 
