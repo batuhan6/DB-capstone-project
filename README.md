@@ -47,6 +47,7 @@ In this project, I have proven my ability to:
   I start the project by creating Workbench diagram
 </pre>
 
+
 ![mysqlworkbench_diagram](https://github.com/batuhan6/db-capstone-project/assets/32600613/cc480066-bbb3-45db-a0dc-3795136bfd69)
 
 
