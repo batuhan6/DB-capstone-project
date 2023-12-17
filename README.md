@@ -48,6 +48,5 @@ In this project, I have proven my ability to:
 </pre>
 
 
-![littleLemon_db_workbench](https://github.com/batuhan6/db-capstone-project/assets/32600613/3e45e5c6-63d2-46a9-886d-d3356b88abfa)
 
 
