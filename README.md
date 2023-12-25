@@ -48,6 +48,7 @@ In this project, I have proven my ability to:
 </pre>
 
 
-![WorkbenchFinal](https://github.com/batuhan6/DB-capstone-project/assets/32600613/215e6987-8c2c-43c7-a6a9-962e09112dc3)
+![WorkbenchFinal](https://github.com/batuhan6/DB-capstone-project/assets/32600613/9b10da12-07be-4d7f-b1ea-5e0a9dc2b2c7)
+
 
 
