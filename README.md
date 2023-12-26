@@ -10,7 +10,7 @@ Created these sales reports using queries, procedures and prepared statements
 
 queries 
 - VIRTUAL TABLES:To make use of data that exist in other tables and to simplify data access inquiries.
-- JOINS:Link recordsof data between one or more tablesbased on a common column. 
+- JOINS:Link records of data between one or more tables based on a common column. 
 
 stored procedures 
 - Reusable code that can be invoked and executed efficiently. 
