@@ -47,7 +47,6 @@ In this project, I have proven my ability to:
   I start the project by creating Workbench diagram
 </pre>
 
-
-![1](https://github.com/batuhan6/DB-capstone-project/assets/32600613/3e4f8bf6-0009-4219-9aee-0f5fae046f24)
+![1](https://github.com/batuhan6/DB-capstone-project/assets/32600613/04b2b860-9367-4969-bf40-a79a684a1b77)
 
 
