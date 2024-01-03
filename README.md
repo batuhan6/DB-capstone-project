@@ -49,3 +49,9 @@ In this project, I have proven my ability to:
 
 ![1](https://github.com/batuhan6/DB-capstone-project/assets/32600613/9e71dd02-08eb-4d31-9dd3-1e318a09203c)
 
+
+
+![2](https://github.com/batuhan6/DB-capstone-project/assets/32600613/9a25f5f0-afe5-47d4-894b-9746bd1a591c)
+![3](https://github.com/batuhan6/DB-capstone-project/assets/32600613/a9113895-3dc4-4183-956a-dfd71d412325)
+![4](https://github.com/batuhan6/DB-capstone-project/assets/32600613/a36784fa-4f97-41e1-b658-53965fd605c8)
+
