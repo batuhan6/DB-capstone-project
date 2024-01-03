@@ -61,13 +61,13 @@ Update booking procedure
 Cancel booking procedure
 ![4](https://github.com/batuhan6/DB-capstone-project/assets/32600613/66bc135e-c565-4579-9bd4-fdc8f77285a5)
 
-Manage booking procedure
+GetMaxQuantity procedure
 ![5](https://github.com/batuhan6/DB-capstone-project/assets/32600613/0aa45dae-6017-4cc9-b6ce-ca69dfa17eb1)
 
-Join operations. Queries that gives the number of bookings per cities and the number of orders per cities.
+Manage booking procedure
 ![7](https://github.com/batuhan6/DB-capstone-project/assets/32600613/9de38eea-434f-4dd3-9579-e39a8f706b88)
 
-
+Join operations. Queries that gives the number of bookings per cities and the number of orders per cities.
 ![8](https://github.com/batuhan6/DB-capstone-project/assets/32600613/1e8ed361-6db7-4a12-8511-25f0b3891095)
 
 
