@@ -49,6 +49,10 @@ In this project, I have proven my ability to:
 
 ![1](https://github.com/batuhan6/DB-capstone-project/assets/32600613/9e71dd02-08eb-4d31-9dd3-1e318a09203c)
 
+Views is written for course names.
+![views_coursesnames](https://github.com/batuhan6/DB-capstone-project/assets/32600613/e3612ca2-03c2-4850-9a31-8999bfd62d19)
+
+
 Trigger that creates autoomatically create date when new booking created. 
 ![1](https://github.com/batuhan6/DB-capstone-project/assets/32600613/f642bea4-58b3-4148-b4b6-9f038838b29b)
 
